@@ -598,6 +598,9 @@ header .login-form form a:hover{
     display: block;
     padding: 15px;
   }
+  .home .home-img img{
+    width: 300px;
+  }
   .home,.about{
     grid-template-columns: 1fr;
   }
