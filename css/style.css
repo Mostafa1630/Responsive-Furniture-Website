@@ -292,7 +292,7 @@ header .login-form form a:hover{
   position: relative;
 }
 .home .home-img img{
-  width: 400px;
+  width: 370px;
 }
 .home .home-img::after{
   content: '';
